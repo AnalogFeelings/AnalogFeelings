@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there! Im AesGames, AKA Aesthetical.
 
-<!--
-**AesGames/AesGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on:
+A horor game, Blitz3D modifications, and C# QOL tools.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning:
+Japanese!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on:
+CBRE, SCP: CB 1.4 and a few discord bots I have.
+
+- 🤔 I’m looking for help with:
+Nothing actually!
+
+- 😄 Pronouns:
+I don't really understand why people put their pronouns in their bio...
+
+- ⚡ Fun fact:
+I learnt to code when I was 13.
