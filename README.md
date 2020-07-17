@@ -1,4 +1,4 @@
-### Hi there! Im AesGames, AKA Aesthetical.
+### Hi there! Im AestheticalZ, AKA Aesthetical.
 
 - 🔭 I’m currently working on:
 A horor game, Blitz3D modifications, and C# QOL tools.
