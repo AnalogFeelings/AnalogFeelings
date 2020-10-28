@@ -1,7 +1,7 @@
 ### Hi there! Im AestheticalZ, AKA Aesthetical.
 
 - 🔭 I’m currently working on:
-A horor game, Blitz3D modifications, and C# QOL tools.
+A horror game, Blitz3D modifications, and C# QOL tools.
 
 - 🌱 I’m currently learning:
 Japanese!
