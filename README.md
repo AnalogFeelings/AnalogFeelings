@@ -17,3 +17,5 @@ I learnt to code when I was 13.
 
 - 💾 Programming languages:
 C# (favorite), JS (abandoned it), C++, BlitzBasic (kinda)
+
+I really don't know why github chose my first ever github repo for the artic vault stuff.
