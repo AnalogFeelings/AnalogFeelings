@@ -1,13 +1,13 @@
 ### Hi there! Im AestheticalZ, AKA Aesthetical.
 
 - 🔭 I’m currently working on:
-An FPS game, FlagPFP, and another game.
+jesus christ can i please stop making projects i wont finish
 
 - 🌱 I’m currently learning:
-Japanese, deeper C#, and more.
+Deeper C#, Ruby, V lang, Win32 API and UWP.
 
 - 👯 I’m looking to collaborate on:
-Nothing since popular repositories now use soydev languages like TS.
+Nothing since popular repositories now use soydev languages like TS or Rust.
 
 - 🤔 I’m looking for help with:
 SharpCat's Java version (Java's reflection is absolute trash, please help).
