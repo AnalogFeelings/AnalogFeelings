@@ -4,13 +4,13 @@
 jesus christ can i please stop making projects i wont finish
 
 - 🌱 I’m currently learning:
-Deeper C#, Ruby, V lang, Win32 API and UWP.
+Deeper C#, Japanese (jesus christ it is HARD).
 
 - 👯 I’m looking to collaborate on:
 Nothing since popular repositories now use soydev languages like TS or Rust.
 
 - 🤔 I’m looking for help with:
-SharpCat's Java version (Java's reflection is absolute trash, please help).
+Nothing.
 
 - ⚡ Fun fact:
 I cannot keep my attention focused on a task for more than 1 minute!
