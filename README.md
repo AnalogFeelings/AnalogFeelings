@@ -12,6 +12,9 @@ Nothing since popular repositories now use soydev languages like TS or Rust.
 - 🤔 I’m looking for help with:
 Nothing.
 
+- 🚻 Pronouns:
+she/her 🏳️‍⚧️
+
 - ⚡ Fun fact:
 I cannot keep my attention focused on a task for more than 1 minute!
 
