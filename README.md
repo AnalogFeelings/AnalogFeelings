@@ -23,4 +23,6 @@ C# (favorite), Java (sort of?), JS (abandoned it), C++, BlitzBasic (kinda)
 
 I really don't know why github chose my first ever github repo for the artic vault stuff, it feels embarassing af
 
+https://aestheticalz.github.io/
+
 ![plinkna](PLINKNAEND.PNG)
