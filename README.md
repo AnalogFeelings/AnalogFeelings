@@ -1,10 +1,10 @@
-### Hi there! Im AestheticalZ, AKA Aesthetical.
+### Hi there! Im AestheticalZ, but you can call me Nora.
 
 - 🔭 I’m currently working on:
-jesus christ can i please stop making projects i wont finish
+I can't stop making new projects, please help.
 
 - 🌱 I’m currently learning:
-Deeper C#, Japanese (jesus christ it is HARD).
+Nothing.
 
 - 👯 I’m looking to collaborate on:
 Nothing since popular repositories now use soydev languages like TS or Rust.
@@ -16,7 +16,7 @@ Nothing.
 she/her 🏳️‍⚧️
 
 - ⚡ Fun fact:
-I cannot keep my attention focused on a task for more than 1 minute!
+I cannot keep my attention focused on a task for more than 10 minutes!
 
 - 💾 Programming languages:
 C# (favorite), Java (sort of?), JS (abandoned it), C++, BlitzBasic (kinda)
