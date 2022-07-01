@@ -21,7 +21,7 @@ she/her 🏳️‍⚧️
 I cannot keep my attention focused on a task for more than 10 minutes!
 
 - 💾 Programming languages:
-C# (favorite), Java (sort of?), JS (abandoned it), C++, BlitzBasic (kinda)
+C# (favorite), Java (sort of?), JS (abandoned it), C, C++, BlitzBasic (kinda)
 
 GitHub chose my worst ever repo for the arctic archive program 😔
 
