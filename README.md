@@ -6,7 +6,7 @@ I love C# and old computers. Windows 2000 is the most stable Windows version to 
 I can't stop making new projects, please help.
 
 - 🌱 I’m currently learning:
-Nothing.
+Rust.
 
 - 👯 I’m looking to collaborate on:
 Nothing since popular repositories now use soydev languages like TS or Rust.
