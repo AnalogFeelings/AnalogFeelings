@@ -9,7 +9,7 @@ I can't stop making new projects, please help.
 Rust.
 
 - 👯 I’m looking to collaborate on:
-Nothing since popular repositories now use soydev languages like TS or Rust.
+Nothing.
 
 - 🤔 I’m looking for help with:
 Nothing.
