@@ -1,5 +1,3 @@
-# Request ID=01092022/9933439
-
 ### Hi there! Im AestheticalZ, but you can call me Nora.
 
 I love C# and old computers. Windows 2000 is the most stable Windows version to date, change my mind.
