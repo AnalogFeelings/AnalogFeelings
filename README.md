@@ -25,6 +25,8 @@ C# (favorite), Java (sort of?), JS (abandoned it), C, C++, BlitzBasic (kinda)
 
 GitHub chose my worst ever repo for the arctic archive program 😔
 
+My Mastodon: @analog_feelings@tech.lgbt
+
 https://aestheticalz.github.io/
 
 ![plinkna](PLINKNAEND.PNG)
