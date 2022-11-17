@@ -1,32 +1,35 @@
 ### Hi there! Im AestheticalZ, but you can call me Nora.
+[![](https://visitcount.itsvg.in/api?id=AestheticalZ&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
 
 I love C# and old computers. Windows 2000 is the most stable Windows version to date, change my mind.
 
-- 🔭 I’m currently working on:
-Samm-Bot, CBRE-EX.
+- 📊 **I’m currently working on**:
+Samm-Bot, Bluechirp.
 
-- 🌱 I’m currently learning:
-Rust.
+- 🧑‍🏫 **I’m currently learning**:
+Rust, UWP (WinUI 2)
 
-- 👯 I’m looking to collaborate on:
+- 👥 **I’m looking to collaborate on**:
 Nothing.
 
-- 🤔 I’m looking for help with:
+- 🆘 **I’m looking for help with**:
 Nothing.
 
-- 🚻 Pronouns:
+- 🚻 **Pronouns**:
 she/her
 
-- ⚡ Fun fact:
-I cannot keep my attention focused on a task for more than 10 minutes!
-
-- 💾 Programming languages:
+- 💾 **Programming Languages**:
 C# (favorite), Java (sort of?), JS (abandoned it), C, C++, BlitzBasic (kinda)
 
 GitHub chose my worst ever repo for the arctic archive program 😔
 
-**My Mastodon**: @analog_feelings@tech.lgbt
+**My Mastodon**: @analog_feelings@tech.lgbt  
+**My website**: https://aestheticalz.github.io/
 
-https://aestheticalz.github.io/
-
-![plinkna](PLINKNAEND.PNG)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aestheticalz&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestheticalz&layout=compact&theme=tokyonight" />
+</a>
