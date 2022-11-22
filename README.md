@@ -5,10 +5,10 @@
 I love C# and old computers. Windows 2000 is the most stable Windows version to date, change my mind.
 
 - 📊 **I’m currently working on**:
-Samm-Bot, Bluechirp.
+Samm-Bot, Rubidium.
 
 - 🧑‍🏫 **I’m currently learning**:
-Rust, UWP (WinUI 2)
+UWP (WinUI 2)
 
 - 👥 **I’m looking to collaborate on**:
 Nothing.
