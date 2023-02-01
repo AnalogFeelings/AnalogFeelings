@@ -24,9 +24,6 @@ C# (favorite), Java (sort of?), JS (abandoned it), C, C++, BlitzBasic (kinda)
 
 GitHub chose my worst ever repo for the arctic archive program 😔
 
-**My Mastodon**: [@analog_feelings@tech.lgbt](https://tech.lgbt/@analog_feelings)  
-**My website**: https://aestheticalz.github.io/
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aestheticalz&show_icons=true&theme=tokyonight" />
 </a>
