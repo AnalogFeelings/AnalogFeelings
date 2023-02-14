@@ -2,25 +2,14 @@
 [![](https://visitcount.itsvg.in/api?id=AestheticalZ&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
-I love C# and old computers. Windows 2000 is the most stable Windows version to date, change my mind.
+I'm a programmer girl who loves C#, messing around with Windows components and old computers. Windows 2000 is the most stable Windows version to date, change my mind.
 
-- 📊 **I’m currently working on**:
-Samm-Bot, Rubidium.
+- 👤 **Pronouns**: she/her
+- 🗣️ **Languages**: 🍵 English, 🥘Spanish
+- 💾 **Programming Languages**: C#, JavaScript, C++, C, Java, BlitzBasic.
+- 🌐 **Website**: https://aestheticalz.github.io/
 
-- 🧑‍🏫 **I’m currently learning**:
-UWP (WinUI 2)
-
-- 👥 **I’m looking to collaborate on**:
-Nothing.
-
-- 🆘 **I’m looking for help with**:
-Nothing.
-
-- 🚻 **Pronouns**:
-she/her
-
-- 💾 **Programming Languages**:
-C# (favorite), Java (sort of?), JS (abandoned it), C, C++, BlitzBasic (kinda)
+You can check some of my social media on my GitHub profile sidebar, or my website's sidebar!
 
 GitHub chose my worst ever repo for the arctic archive program 😔
 
