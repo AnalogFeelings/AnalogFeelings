@@ -17,5 +17,5 @@ GitHub chose my worst ever repo for the arctic archive program 😔
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aestheticalz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestheticalz&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestheticalz&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
