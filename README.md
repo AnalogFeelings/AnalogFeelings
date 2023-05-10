@@ -1,8 +1,9 @@
-### Hi there! Im AestheticalZ, but you can call me Nora.
+### Hi there! Im Analog Feelings, but you can call me Nora.
 [![](https://visitcount.itsvg.in/api?id=AestheticalZ&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 
-I'm a programmer girl who loves C#, messing around with Windows components and old computers. Windows 2000 is the most stable Windows version to date, change my mind.
+I'm a programmer girl who loves C#, messing around with Windows components and old computers. Windows 2000 is the most stable Windows version to date, change my mind.  
+By the way, I was called AestheticalZ before.
 
 - 👤 **Pronouns**: she/her
 - 🗣️ **Languages**: 🍵 English, 🥘Spanish
