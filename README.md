@@ -8,15 +8,15 @@ By the way, I was called AestheticalZ before.
 - 👤 **Pronouns**: she/her
 - 🗣️ **Languages**: 🍵 English, 🥘Spanish
 - 💾 **Programming Languages**: C#, JavaScript, C++, C, Java, BlitzBasic.
-- 🌐 **Website**: https://aestheticalz.github.io/
+- 🌐 **Website**: https://analogfeelings.github.io/
 
 You can check some of my social media on my GitHub profile sidebar, or my website's sidebar!
 
 GitHub chose my worst ever repo for the arctic archive program 😔
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aestheticalz&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=analogfeelings&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aestheticalz&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analogfeelings&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
 </a>
