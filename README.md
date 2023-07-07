@@ -5,7 +5,7 @@
 I'm a programmer girl who loves C#, messing around with Windows components and old computers. Windows 2000 is the most stable Windows version to date, change my mind.  
 By the way, I was called AestheticalZ before.
 
-- 👤 **Pronouns**: she/her
+- 👤 **Pronouns**: she/her, transgender
 - 🗣️ **Languages**: 🍵 English, 🥘Spanish
 - 💾 **Programming Languages**: C#, JavaScript, C++, C, Java, BlitzBasic.
 - 🌐 **Website**: https://analogfeelings.github.io/
