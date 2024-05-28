@@ -1,4 +1,4 @@
-### Hi there! Im Analog Feelings, but you can call me Nora.
+### Hi!!! Im Analog Feelings, but you can call me Nora.
 
 I'm a programmer girl who loves C#, messing around with Windows components and old computers.  
 Windows 2000 is the most stable Windows version to date, change my mind.
@@ -9,6 +9,7 @@ People used to know me as AestheticalZ or AestheticalGL.
 - 🗣️ **Languages**: 🍵 English, 🥘Spanish
 - 💾 **Programming Languages**: C#, JavaScript, C++, C, Java, BlitzBasic.
 - 🌐 **Website**: https://analogfeelings.github.io/
+- ☕ **Donate**: https://ko-fi.com/analogfeelings
 
 If you want more info about me, check my website! It's linked up there.
 
