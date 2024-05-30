@@ -9,7 +9,6 @@ People used to know me as AestheticalZ or AestheticalGL.
 - 🗣️ **Languages**: 🍵 English, 🥘Spanish
 - 💾 **Programming Languages**: C#, JavaScript, C++, C, Java, BlitzBasic.
 - 🌐 **Website**: https://analogfeelings.github.io/
-- ☕ **Donate**: https://ko-fi.com/analogfeelings
 
 If you want more info about me, check my website! It's linked up there.
 
