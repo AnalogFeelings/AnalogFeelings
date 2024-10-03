@@ -6,8 +6,8 @@ Windows 2000 is the most stable Windows version to date, change my mind.
 People used to know me as AestheticalZ or AestheticalGL.
 
 - ✨ **Pronouns**: she/her, transgender
-- 🗣️ **Languages**: 🍵 English, 🥘Spanish
-- 💾 **Programming Languages**: C#, JavaScript, C++, C, Java, BlitzBasic.
+- 🗣️ **Languages**: English, Spanish
+- 💾 **Programming Languages**: C#, JavaScript, C++, C, Java.
 - 🌐 **Website**: https://analogfeelings.github.io/
 
 If you want more info about me, check my website! It's linked up there.
