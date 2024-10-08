@@ -1,7 +1,7 @@
 ### Hi!!! Im Analog Feelings, but you can call me Nora.
 
 I'm a programmer girl who loves C#, messing around with Windows components and old computers.  
-Windows 2000 is the most stable Windows version to date, change my mind.
+I've completely lost sensitivity to caffeine unless it's in extremely high doses, I love Monster.
 
 People used to know me as AestheticalZ or AestheticalGL.
 
@@ -13,8 +13,8 @@ People used to know me as AestheticalZ or AestheticalGL.
 If you want more info about me, check my website! It's linked up there.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=analogfeelings&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&show=reviews,prs_merged,prs_merged_percentage" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analogfeelings&layout=donut&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" />
+  
+  [![AnalogFeelings' GitHub Stats](https://github-readme-stats.vercel.app/api?username=analogfeelings&show_icons=true&theme=github_dark&show=reviews,prs_merged,prs_merged_percentage#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![AnalogFeelings' GitHub Stats](https://github-readme-stats.vercel.app/api?username=analogfeelings&show_icons=true&show=reviews,prs_merged,prs_merged_percentage#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  
 </a>
