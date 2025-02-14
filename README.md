@@ -8,7 +8,7 @@ People used to know me as AestheticalZ or AestheticalGL.
 - ✨ **Pronouns**: she/her, transgender
 - 🗣️ **Languages**: English, Spanish
 - 💾 **Programming Languages**: C#, JavaScript, C++, C, Java.
-- 🌐 **Website**: https://analogfeelings.github.io/
+- 🌐 **Website**: https://analogfeelings.xyz/
 
 If you want more info about me, check my website! It's linked up there.
 
