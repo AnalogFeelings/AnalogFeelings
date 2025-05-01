@@ -5,7 +5,7 @@ I've completely lost sensitivity to caffeine unless it's in extremely high doses
 
 People used to know me as AestheticalZ or AestheticalGL.
 
-- ✨ **Pronouns**: she/her, transgender
+- ✨ **Pronouns**: she/her, bigender
 - 🗣️ **Languages**: English, Spanish
 - 💾 **Programming Languages**: C#, JavaScript, C++, C, Java.
 - 🌐 **Website**: https://analogfeelings.xyz/
